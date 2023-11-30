@@ -28,6 +28,15 @@ hr {
     align-items: center;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
 
 /* colored tiles */
 
